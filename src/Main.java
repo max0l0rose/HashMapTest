@@ -12,7 +12,6 @@ public class Main {
         //map0.put(1, "q");
 
 
-
         HashMap<Integer, String> map0 = new HashMap<>();
         map0.put(4, null);
         map0.put(5, null); // ok
